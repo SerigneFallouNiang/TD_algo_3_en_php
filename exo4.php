@@ -13,6 +13,6 @@ if ($element == "a" || $element == "e" || $element == "y" || $element == "u" || 
         $somme += 1; 
     }
 }
- 
+
 echo "Le nombre de voyelles dans votre tableau est : $somme\n";
 ?>
